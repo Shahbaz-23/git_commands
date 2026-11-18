@@ -7,3 +7,4 @@
 # git add .
 # git clear
 # git diff
+# git log - to get status
